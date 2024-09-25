@@ -15,7 +15,7 @@ public class Properties {
     public String il2cppEtc;
     public String unityZip;
 
-    public String unityProvider = "https://lemon.sircoolness.dev/android/";
+    public String unityProvider = "https://github.com/LemonLoader/AndroidNativeLibraries/raw/main/";
     public String unityVersion;
 
     // directly set a path instead - both need to be set to apply
